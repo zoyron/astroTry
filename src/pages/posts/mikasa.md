@@ -1,3 +1,14 @@
+---
+title: 'My First Blog Post'
+pubDate: 2022-07-01
+description: 'This is the first post of my new Astro blog.'
+author: 'Astro Learner'
+image:
+    url: 'https://docs.astro.build/assets/full-logo-light.png'
+    alt: 'The full Astro logo.'
+tags: ["astro", "blogging", "learning in public"]
+---
+
 # Mikasa - cruel or compassionate?
 
 I tend to take Mikasa’s philosophy in a lot of situations. Yes, the world sucks, it’s merciless and cruel, and maybe there is no purpose in life, but if you linger a little longer you will discover something worthwhile. There are still things I find worth fighting for and living for regardless of how messy things can get. 
