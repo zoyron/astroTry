@@ -32,9 +32,6 @@ h1 {
   margin-bottom: 10px;
   background-color: #ff9776;
 }
-.hamburger {
-    display: none;
-  }/* nav styles */
 
 .nav-links {
   width: 100%;
@@ -77,5 +74,9 @@ h1 {
     display: inline-block;
     padding: 15px 20px;
   }
+
+  .hamburger {
+      display: none;
+    }/* nav styles */
 
 }
